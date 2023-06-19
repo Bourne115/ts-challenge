@@ -1,0 +1,1 @@
+// tcs --init 可以生成 tsconfig.json 文件  
